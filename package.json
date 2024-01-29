@@ -1,0 +1,12 @@
+{
+  "name": "vue-mindmap",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": ["vue", "mindmap"],
+  "homepage": "https://codesandbox.io/s/r5j46qw3xn",
+  "main": "index.js",
+  "dependencies": {
+    "vue": "2.5.2",
+    "vue-mindmap": "0.0.4"
+  }
+}
